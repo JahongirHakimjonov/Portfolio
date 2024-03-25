@@ -31,8 +31,8 @@ const siteProps = {
   instagram: "ja_khan_gir",
   linkedIn: "jahongir-hakimjonov",
   medium: "",
-  twitter: "microsoft",
-  youTube: "Code",
+  twitter: "ja_khan_gir",
+  youTube: "",
 };
 
 const primaryColor = "#4E567E";
