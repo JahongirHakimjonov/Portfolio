@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Jahongir Hakimjonov",
-  title: "Backend Developer & SWE",
+  title: "Backend Developer",
   email: "jahongirhakimjonov@gmail.com",
   gitHub: "JahongirHakimjonov",
   instagram: "ja_khan_gir",
