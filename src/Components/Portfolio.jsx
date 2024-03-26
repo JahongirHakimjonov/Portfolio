@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
-    description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
-  },
-  {
-    title: "Web Development for Beginners",
-    description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
-  },
-  {
     title: "My Resume Site",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "You can read my resume, which contains information about me, my work experience and skills.",
+    url: "https://drive.google.com/file/d/1-CE_-N2iZKjbVT5PcGLqSvgUOVJ92sC4/view?usp=drive_link",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "My projects on GitHub",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Some of my projects are private, so you can easily familiarize yourself with my public projects.",
+    url: "https://github.com/JahongirHakimjonov",
+  },
+  {
+    title: "My Spotify playlist",
+    description:
+      "Since programming is a very long-term job, I like to listen to music while working, so you can enjoy the music I listen to.",
+    url: "https://open.spotify.com/playlist/6G9GqyD4X9YticsIy9C3GZ?si=97ecd7dc3bea460e",
+  },
+  {
+    title: "My latest project",
+    description:
+      "You can get acquainted with my latest project on the site, full information about this project is written.",
+    url: "https://feedback.tiiame.uz/",
   },
 ];
 
