@@ -28762,7 +28762,7 @@ const imageAltText = "desktop with books and laptop";
     {
         title: "My Resume Site",
         description: "You can read my resume, which contains information about me, my work experience and skills.",
-        url: "https://drive.google.com/file/d/1-OGzYGNy0OJyBUjxmyhB2tr52ExVAHMX/view?usp=drive_link"
+        url: "https://www.canva.com/design/DAGDHdnRcII/oMWsmW8fRmSDq_asvn2Kiw/edit?utm_content=DAGDHdnRcII&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
     },
     {
         title: "My projects on GitHub",
